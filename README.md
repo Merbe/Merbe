@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Merbe
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning Python
